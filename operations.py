@@ -4,6 +4,9 @@ def add(x,y):
 def sub(x, y):
 	return x-y
 
+def multiply(x,y)
+	return x*y
+
 def main():
 	print("Hello VCS")
 	print(add(2,3))
